@@ -1,11 +1,10 @@
 import './App.css';
+import {HomepageContainer} from "./components/Homepage/HomepageContainer/HomepageContainer";
 
 function App() {
-  return (
-    <div>
-      <h1>Hello</h1>
-    </div>
-  );
+      return (
+        <HomepageContainer />
+      );
 }
 
 export default App;

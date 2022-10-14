@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Pulp Fiction",
+    "genres": ["Action", "Adventure"],
+    "releaseDate": 2004,
+    "rating": 7.8,
+    "runtime": 124,
+    "movieUrl": "https://google.com",
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum, metus at mattis porta, ante libero dictum lorem, id dapibus ante tortor eget erat. Integer in diam vel nibh luctus accumsan sit amet in eros. Proin blandit turpis commodo dolor consequat, et facilisis purus pellentesque. Quisque ornare, arcu nec dignissim placerat, erat urna mattis orci, eget ornare dui arcu sit amet lacus. Donec ac congue libero, id vestibulum eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam tempus tincidunt eros, et scelerisque leo consectetur sit amet. Aenean facilisis tempus eros, et viverra quam pulvinar eget. Cras elementum ac neque ut sollicitudin. Nam quis dignissim ipsum, nec sodales felis. Proin at libero vitae enim pulvinar pellentesque. Phasellus ullamcorper scelerisque dui, non luctus justo finibus et. Ut viverra massa eget ultricies aliquam. Sed vitae facilisis augue. Vivamus interdum nisl quis lacus bibendum, quis blandit est placerat. "
+  },
+  {
+    "id": 2,
+    "title": "Bohemian Rhapsody",
+    "genres": ["Drama", "Biography", "Music"],
+    "releaseDate": 2003,
+    "rating": 6.4,
+    "runtime": 112,
+    "movieUrl": "https://google.com",
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum, metus at mattis porta, ante libero dictum lorem, id dapibus ante tortor eget erat. Integer in diam vel nibh luctus accumsan sit amet in eros. Proin blandit turpis commodo dolor consequat, et facilisis purus pellentesque. Quisque ornare, arcu nec dignissim placerat, erat urna mattis orci, eget ornare dui arcu sit amet lacus. Donec ac congue libero, id vestibulum eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam tempus tincidunt eros, et scelerisque leo consectetur sit amet. Aenean facilisis tempus eros, et viverra quam pulvinar eget. Cras elementum ac neque ut sollicitudin. Nam quis dignissim ipsum, nec sodales felis. Proin at libero vitae enim pulvinar pellentesque. Phasellus ullamcorper scelerisque dui, non luctus justo finibus et. Ut viverra massa eget ultricies aliquam. Sed vitae facilisis augue. Vivamus interdum nisl quis lacus bibendum, quis blandit est placerat. "
+  },
+  {
+    "id": 3,
+    "title": "Kill Bill: Vol 2",
+    "genres": ["Action", "Horror"],
+    "releaseDate": 2004,
+    "rating": 7.8,
+    "runtime": 124,
+    "movieUrl": "https://google.com",
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum, metus at mattis porta, ante libero dictum lorem, id dapibus ante tortor eget erat. Integer in diam vel nibh luctus accumsan sit amet in eros. Proin blandit turpis commodo dolor consequat, et facilisis purus pellentesque. Quisque ornare, arcu nec dignissim placerat, erat urna mattis orci, eget ornare dui arcu sit amet lacus. Donec ac congue libero, id vestibulum eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam tempus tincidunt eros, et scelerisque leo consectetur sit amet. Aenean facilisis tempus eros, et viverra quam pulvinar eget. Cras elementum ac neque ut sollicitudin. Nam quis dignissim ipsum, nec sodales felis. Proin at libero vitae enim pulvinar pellentesque. Phasellus ullamcorper scelerisque dui, non luctus justo finibus et. Ut viverra massa eget ultricies aliquam. Sed vitae facilisis augue. Vivamus interdum nisl quis lacus bibendum, quis blandit est placerat. "
+  },
+  {
+    "id": 4,
+    "title": "Avengers: War of Infinity",
+    "genres": ["Action", "Sci-fi"],
+    "releaseDate": 2020,
+    "rating": 7.8,
+    "runtime": 104,
+    "movieUrl": "https://google.com",
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum, metus at mattis porta, ante libero dictum lorem, id dapibus ante tortor eget erat. Integer in diam vel nibh luctus accumsan sit amet in eros. Proin blandit turpis commodo dolor consequat, et facilisis purus pellentesque. Quisque ornare, arcu nec dignissim placerat, erat urna mattis orci, eget ornare dui arcu sit amet lacus. Donec ac congue libero, id vestibulum eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam tempus tincidunt eros, et scelerisque leo consectetur sit amet. Aenean facilisis tempus eros, et viverra quam pulvinar eget. Cras elementum ac neque ut sollicitudin. Nam quis dignissim ipsum, nec sodales felis. Proin at libero vitae enim pulvinar pellentesque. Phasellus ullamcorper scelerisque dui, non luctus justo finibus et. Ut viverra massa eget ultricies aliquam. Sed vitae facilisis augue. Vivamus interdum nisl quis lacus bibendum, quis blandit est placerat. "
+  },
+  {
+    "id": 5,
+    "title": "Inception",
+    "genres": ["Action", "Sci-fi"],
+    "releaseDate": 2011,
+    "rating": 8.8,
+    "runtime": 101,
+    "movieUrl": "https://google.com",
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum, metus at mattis porta, ante libero dictum lorem, id dapibus ante tortor eget erat. Integer in diam vel nibh luctus accumsan sit amet in eros. Proin blandit turpis commodo dolor consequat, et facilisis purus pellentesque. Quisque ornare, arcu nec dignissim placerat, erat urna mattis orci, eget ornare dui arcu sit amet lacus. Donec ac congue libero, id vestibulum eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam tempus tincidunt eros, et scelerisque leo consectetur sit amet. Aenean facilisis tempus eros, et viverra quam pulvinar eget. Cras elementum ac neque ut sollicitudin. Nam quis dignissim ipsum, nec sodales felis. Proin at libero vitae enim pulvinar pellentesque. Phasellus ullamcorper scelerisque dui, non luctus justo finibus et. Ut viverra massa eget ultricies aliquam. Sed vitae facilisis augue. Vivamus interdum nisl quis lacus bibendum, quis blandit est placerat. "
+  }
+]
